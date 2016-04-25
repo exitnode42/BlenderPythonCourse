@@ -10,7 +10,7 @@ PS.:
 
 If youre interesseted come to my course and you can get an impression
 what we do and what fun it makes....
-TU Dresden - Fak. Computer Science every thursday @ 2.DS Room 065
+TU Dresden - Fak. Computer Science every thursday @ 2.DS Room 069
 
 ###########BLENDER/PYTHON-COURSE##############################################
 ###########All rights belong to donald95######################################

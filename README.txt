@@ -1,7 +1,6 @@
 ###########BLENDER/PYTHON-COURSE SS 2016########################################
 ###########Proudly presented by donald95########################################
-In this course I create complex content in Blender which you only
-are able to unterstand if you have visited my lesson.
+In this course I create  content in Blender.
 I am not a common teacher, only a former tutor who wants you
 to support and help you learning and understanding Blender and Python.
 
